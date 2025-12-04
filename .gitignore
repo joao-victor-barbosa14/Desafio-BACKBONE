@@ -5,3 +5,9 @@ node_modules/
 /generated/prisma
 
 /generated/prisma
+
+README.md
+
+.env
+
+.gitignore
